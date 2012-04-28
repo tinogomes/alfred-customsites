@@ -86,5 +86,29 @@
 		<key>utf8</key>
 		<true/>
 	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>www</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Open URL</string>
+		<key>url</key>
+		<string>http://{query}</string>
+		<key>utf8</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>delicious</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Delicious</string>
+		<key>url</key>
+		<string>http://www.delicious.com/tinogomes/{query}</string>
+		<key>utf8</key>
+		<true/>
+	</dict>
 </array>
 </plist>
