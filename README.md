@@ -10,11 +10,11 @@ This is my Alfred Custom Searches
 
 ### Via `curl` (that works fine... on my machine)
 
-		$ curl -L https://github.com/tinogomes/alfred-customsites/master/install.sh | sh
+		$ curl -L https://raw.github.com/tinogomes/alfred-customsites/master/install.sh | sh
 
 ### Manual
 
-Really do you want it? So, read <https://github.com/tinogomes/alfred-customsites/master/install.sh>
+Really do you want it? So, read <https://raw.github.com/tinogomes/alfred-customsites/master/install.sh>
 
 ## Current custom searches
 
