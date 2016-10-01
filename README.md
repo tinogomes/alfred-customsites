@@ -7,9 +7,9 @@ This is my Alfred Custom Searches
 * Install Alfred (Duh)
 * Quit Alfred if it is running and follow below steps:
 
-	$ cd ~/Library/Application\ Support/Alfred
-	$ rm -rf customsites
-	$ git clone git://github.com/tinogomes/alfred-customsites.git customsites
+		$ cd ~/Library/Application\ Support/Alfred
+		$ rm -rf customsites
+		$ git clone git://github.com/tinogomes/alfred-customsites.git customsites
 
 * Start Alfred
 
