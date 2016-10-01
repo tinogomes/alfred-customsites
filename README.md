@@ -4,7 +4,7 @@ This is my Alfred Custom Searches
 
 ## Requirements
 
-* [Aldred](https://www.alfredapp.com/)
+* [Alfred](https://www.alfredapp.com/)
 
 ## To install
 
