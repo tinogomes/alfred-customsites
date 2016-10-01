@@ -2,16 +2,19 @@
 
 This is my Alfred Custom Searches
 
+## Requirements
+
+* [Aldred](https://www.alfredapp.com/)
+
 ## To install
 
-* Install Alfred (Duh)
-* Quit Alfred if it is running and follow below steps:
+### Via `curl` (that works fine... on my machine)
 
-		$ cd ~/Library/Application\ Support/Alfred
-		$ rm -rf customsites
-		$ git clone git://github.com/tinogomes/alfred-customsites.git customsites
+		$ curl -L https://github.com/tinogomes/alfred-customsites/master/install.sh | sh
 
-* Start Alfred
+### Manual
+
+Really do you want it? So, read <https://github.com/tinogomes/alfred-customsites/master/install.sh>
 
 ## Current custom searches
 
