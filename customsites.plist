@@ -4,13 +4,13 @@
 <array>
 	<dict>
 		<key>keyword</key>
-		<string>gh</string>
+		<string>github</string>
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
-		<string>Search at Github</string>
+		<string>Search Github for '{query}'</string>
 		<key>url</key>
-		<string>https://github.com/search?type=Repositories&amp;language=Ruby&amp;q={query}</string>
+		<string>https://github.com/search?q={query}</string>
 		<key>utf8</key>
 		<false/>
 	</dict>
@@ -20,9 +20,9 @@
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
-		<string>Rubygems</string>
+		<string>Search Rubygems for '{query}'</string>
 		<key>url</key>
-		<string>http://rubygems.org/gems/{query}</string>
+		<string>https://rubygems.org/search?query={query}</string>
 		<key>utf8</key>
 		<false/>
 	</dict>
@@ -32,7 +32,7 @@
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
-		<string>Rails API Dock</string>
+		<string>Search Rails APIDock for '{query}'</string>
 		<key>url</key>
 		<string>http://apidock.com/rails/search?query={query}</string>
 		<key>utf8</key>
@@ -44,7 +44,7 @@
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
-		<string>Ruby API Dock</string>
+		<string>Search Ruby APIDock for '{query}'</string>
 		<key>url</key>
 		<string>http://apidock.com/ruby/search?query={query}</string>
 		<key>utf8</key>
@@ -56,7 +56,7 @@
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
-		<string>JQuery API</string>
+		<string>Search JQuery API for '{query}'</string>
 		<key>url</key>
 		<string>http://api.jquery.com/?ns0=1&amp;s={query}</string>
 		<key>utf8</key>
@@ -68,7 +68,7 @@
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
-		<string>Urban Dictionary</string>
+		<string>Search Urban Dictionary for '{query}'</string>
 		<key>url</key>
 		<string>http://www.urbandictionary.com/define.php?term={query}</string>
 		<key>utf8</key>
@@ -104,7 +104,7 @@
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
-		<string>Search Drive Google for '{query}'</string>
+		<string>Search Google Drive for '{query}'</string>
 		<key>url</key>
 		<string>https://drive.google.com/drive/search?q={query}</string>
 		<key>utf8</key>
