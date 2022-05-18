@@ -22,6 +22,6 @@ Really do you want it? So, read <https://raw.github.com/tinogomes/alfred-customs
 * ```drive``` - Search Google Drive for '{query}'
 * ```g``` - Search Rubygems for '{query}'
 * ```github``` - Search Github for '{query}'
-* ```jquery``` - Search JQuery API for '{query}'
+* ```jq``` - Search JQuery API for '{query}'
 * ```ror``` - Search Rails APIDock for '{query}'
 * ```rb``` - Search Ruby APIDock for '{query}'
