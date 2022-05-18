@@ -16,7 +16,7 @@
 	</dict>
 	<dict>
 		<key>keyword</key>
-		<string>gem</string>
+		<string>g</string>
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
@@ -28,7 +28,7 @@
 	</dict>
 	<dict>
 		<key>keyword</key>
-		<string>rails</string>
+		<string>ror</string>
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
@@ -40,7 +40,7 @@
 	</dict>
 	<dict>
 		<key>keyword</key>
-		<string>ruby</string>
+		<string>rb</string>
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
@@ -64,37 +64,13 @@
 	</dict>
 	<dict>
 		<key>keyword</key>
-		<string>dic</string>
+		<string>urban</string>
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
 		<string>Search Urban Dictionary for '{query}'</string>
 		<key>url</key>
 		<string>http://www.urbandictionary.com/define.php?term={query}</string>
-		<key>utf8</key>
-		<true/>
-	</dict>
-	<dict>
-		<key>keyword</key>
-		<string>www</string>
-		<key>spaces</key>
-		<false/>
-		<key>text</key>
-		<string>Open URL</string>
-		<key>url</key>
-		<string>http://{query}</string>
-		<key>utf8</key>
-		<true/>
-	</dict>
-	<dict>
-		<key>keyword</key>
-		<string>delicious</string>
-		<key>spaces</key>
-		<false/>
-		<key>text</key>
-		<string>Delicious</string>
-		<key>url</key>
-		<string>http://www.delicious.com/tinogomes/{query}</string>
 		<key>utf8</key>
 		<true/>
 	</dict>
@@ -107,18 +83,6 @@
 		<string>Search Google Drive for '{query}'</string>
 		<key>url</key>
 		<string>https://drive.google.com/drive/search?q={query}</string>
-		<key>utf8</key>
-		<false/>
-	</dict>
-	<dict>
-		<key>keyword</key>
-		<string>drive</string>
-		<key>spaces</key>
-		<false/>
-		<key>text</key>
-		<string>Open Google Drive</string>
-		<key>url</key>
-		<string>https://drive.google.com/drive</string>
 		<key>utf8</key>
 		<false/>
 	</dict>
