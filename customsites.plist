@@ -16,7 +16,7 @@
 	</dict>
 	<dict>
 		<key>keyword</key>
-		<string>g</string>
+		<string>gem</string>
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
@@ -52,18 +52,6 @@
 	</dict>
 	<dict>
 		<key>keyword</key>
-		<string>jq</string>
-		<key>spaces</key>
-		<false/>
-		<key>text</key>
-		<string>Search JQuery API for '{query}'</string>
-		<key>url</key>
-		<string>http://api.jquery.com/?ns0=1&amp;s={query}</string>
-		<key>utf8</key>
-		<false/>
-	</dict>
-	<dict>
-		<key>keyword</key>
 		<string>urban</string>
 		<key>spaces</key>
 		<false/>
@@ -83,6 +71,54 @@
 		<string>Search Google Drive for '{query}'</string>
 		<key>url</key>
 		<string>https://drive.google.com/drive/search?q={query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>fii</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Funds Explorer</string>
+		<key>url</key>
+		<string>https://www.fundsexplorer.com.br/funds/{query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>web</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Open localhost:8080</string>
+		<key>url</key>
+		<string>http://localhost:8080</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>ops</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Open localhost:8081</string>
+		<key>url</key>
+		<string>http://localhost:8081</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>asana</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Open Asana</string>
+		<key>url</key>
+		<string>https://app.asana.com/</string>
 		<key>utf8</key>
 		<false/>
 	</dict>
