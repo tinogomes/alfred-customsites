@@ -1,4 +1,4 @@
-# Alfred Custom Searches
+	# Alfred Custom Searches
 
 This is my Alfred Custom Searches
 
@@ -10,7 +10,9 @@ This is my Alfred Custom Searches
 
 ### Via `curl` (that works fine... on my machine)
 
-		$ curl -L https://raw.github.com/tinogomes/alfred-customsites/master/install.sh | sh
+```
+$ curl -L https://raw.github.com/tinogomes/alfred-customsites/master/install.sh | sh
+```
 
 ### Manual
 
@@ -18,10 +20,13 @@ Really do you want it? So, read <https://raw.github.com/tinogomes/alfred-customs
 
 ## Current custom searches
 
-* ```urban``` - Search Urban Dictionary for '{query}'
+* ```asana``` - Open Asana
 * ```drive``` - Search Google Drive for '{query}'
-* ```g``` - Search Rubygems for '{query}'
+* ```fii``` - Search on Funds Explorer for '{query}'
+* ```gem``` - Search Rubygems for '{query}'
 * ```github``` - Search Github for '{query}'
-* ```jq``` - Search JQuery API for '{query}'
-* ```ror``` - Search Rails APIDock for '{query}'
+* ```ops``` - Open localhost:8081'
 * ```rb``` - Search Ruby APIDock for '{query}'
+* ```ror``` - Search Rails APIDock for '{query}'
+* ```urban``` - Search Urban Dictionary for '{query}'
+* ```web``` - Open localhost:8080'
